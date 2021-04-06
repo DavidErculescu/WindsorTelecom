@@ -1,6 +1,6 @@
 # WindsorTelecom
 
-run composer update amd 
+run composer update and 
 run php bin/console doctrine:migrations:migrate
 
 For sending of email is necesary to finish the mailer configuration.
